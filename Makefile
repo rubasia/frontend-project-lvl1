@@ -4,6 +4,9 @@ install: # to establish dependencies
 brain-games: # to launch the game
 	node bin/brain-games.js
 
+brain-even: # to launch the first game
+	node bin/brain-even.js
+
 publish:
 	npm publish --dry-run
 

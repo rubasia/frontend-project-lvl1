@@ -5,3 +5,4 @@
 https://asciinema.org/a/aea7jcmBVCfka5CLPYQNmkLjx - Calculation game
 https://asciinema.org/a/0d3WSIXgWYJ19FZ75xAZ4pgfs - GCD game
 https://asciinema.org/a/DNXW04z32v4dEMyMelaGyfMhf - Progression game
+https://asciinema.org/a/RbuZjMD36x3j0SsLUarcADKbQ - Prime game

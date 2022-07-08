@@ -13,6 +13,9 @@ brain-calc: # to launch the calculation game
 brain-gcd: # to launch the gcd game
 	node bin/brain-gcd.js
 
+brain-progression: # to launch the progression game
+	node bin/brain-progression.js
+
 publish:
 	npm publish --dry-run
 

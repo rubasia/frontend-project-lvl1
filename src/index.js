@@ -7,9 +7,9 @@ export default function universalGame(intro, round) {
   console.log(intro);
   for (let i = 0; i < 3; i += 1) {
     if (round() !== 'correct') {
-        console.log(`Let's try again, ${name}!`);
-        break;
-      }
+      console.log(`Let's try again, ${name}!`);
+      break;
+    }
     if (i === 2) { console.log(`Congratulations, ${name}!`); }
   }
 }
